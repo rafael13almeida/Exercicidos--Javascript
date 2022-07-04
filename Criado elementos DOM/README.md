@@ -1,4 +1,4 @@
-<h2>Exercício Manipulando o DOM</h2>
+## Exercício Manipulando o DOM
 
 * Devemos adicionar uma lista de casas e precisamos de apenas 4 informações:
 <ol>
@@ -17,13 +17,13 @@ Quando ele clicar no botão "Adicionar", a casa deve ser adicionada numa lista l
 
 Para realizar a atividade precisaremos:
 
-* Pesquisar sobre a função <a href="https://developer.mozilla.org/pt-BR/docs/Web/API/Document/createElement">createElement</a>
+* Pesquisar sobre a função <https://developer.mozilla.org/pt-BR/docs/Web/API/Document/createElement> createElement 
 
-* Pesquisar sobre a função <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute">setAttribute</a>
+* Pesquisar sobre a função <https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute> setAttribute
 
-* Pesquisar sobre a função <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild">removeChild</a>
+* Pesquisar sobre a função <https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild> removeChild
 
-* Pesquisar sobre <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode">parentNode</a>
+* Pesquisar sobre <https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode> parentNode
 
 
 <ul>
